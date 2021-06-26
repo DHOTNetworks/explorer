@@ -1,5 +1,6 @@
-Donatecoin Explorer - 1.7.4
+Donatecoin Explorer
 ================
+# https://be.takeitcoin.eu.org
 
 An open source block explorer forked from Iquidus Explorer
 
