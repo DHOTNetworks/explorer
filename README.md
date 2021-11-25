@@ -1,13 +1,13 @@
 Donatecoin Explorer
 ================
-# https://be.takeitcoin.eu.org
+# https://block.donatecoin.eu.org
 
 An open source block explorer forked from Iquidus Explorer
 
 
 ### License
 
-Copyright (c) 2015, Donatecoin Technology  
+Changes Copyright (c) 2021, Donatecoin Developers.
 Copyright (c) 2015, Luke Williams  
 All rights reserved.
 
